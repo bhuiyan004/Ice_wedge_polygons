@@ -1,0 +1,4 @@
+tensorboard --logdir "log file path"
+
+for example:
+tensorboard --logdir "/home/wei-gpu01/Documents/DeepLearning_IceWedge/04_Test_MaskRCNN/Mask_RCNN-master/logs/ice_wedge_polygon20180618T0926/"
